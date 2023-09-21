@@ -1,0 +1,38 @@
+{
+    "section1": {
+        "files": [
+            {
+                "url": "assets/images/ball.png",
+                "type": "image",
+                "key": "ball"
+            },
+            {
+                "url": "assets/images/snow.png",
+                "type": "image",
+                "key": "snow"
+            },
+            {
+                "url": "assets/images/wall.png",
+                "type": "image",
+                "key": "wall"
+            },
+            {
+                "url": "assets/images/wall-h.png",
+                "type": "image",
+                "key": "wall-h"
+            },
+            {
+                "url": "assets/images/wall-v.png",
+                "type": "image",
+                "key": "wall-v"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2,
+        "showAllFilesInBlocks": false
+    }
+}
